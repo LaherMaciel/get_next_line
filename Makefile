@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: lwencesl <laherwpayotmaciel@gmail.com>     +#+  +:+       +#+         #
+#    By: lawences <laherwpayotmaciel@gmail.com>     +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2023/01/03 16:41:52 by lwencesl          #+#    #+#              #
-#    Updated: 2023/01/21 20:27:53 by lwencesl         ###   ########.fr        #
+#    Created: 2023/01/03 16:41:52 by lawences          #+#    #+#              #
+#    Updated: 2023/01/21 20:27:53 by lawences         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
