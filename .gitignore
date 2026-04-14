@@ -1,0 +1,15 @@
+# Build artifacts
+*.o
+*.a
+*.gch
+gnl_test
+
+# Test files
+main.c
+test.txt
+
+# Editor
+.vscode/
+
+# macOS
+.DS_Store
